@@ -1,4 +1,4 @@
-# Automation-Testing
+# Web Application Validation using Selenium
 
 This repository contains a series of Selenium automation scripts written in Java to validate the core functionalities of a web application. These scripts are designed to perform basic yet essential web tests, ensuring that the application's critical components are functioning correctly.
 
